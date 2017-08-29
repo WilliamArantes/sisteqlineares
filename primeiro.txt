@@ -1,3 +1,8 @@
 
 1° linha
 2º linha 
+	criei uma função
+	tá ficando legal
+
+a = 1
+
